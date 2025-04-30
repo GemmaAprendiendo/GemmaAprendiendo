@@ -8,7 +8,6 @@ Experience with C# / .NET. Interested in those but also in web dev and data scie
 
 * 🌍  I'm based in USA
 <!--* ✉️  You can contact me at [gmfusterbonico@gmail.com](mailto:gmfusterbonico@gmail.com)-->
-* 🚀 
 * 🧠  I'm learning Angular, REST, Python, TS, Node, Data Science (some basic, some not)
 * 🤝  I'm open to collaborating on .Net, Web Dev, and Data Science (no experience with DS whatsoever)
 
