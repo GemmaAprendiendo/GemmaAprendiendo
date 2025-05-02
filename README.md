@@ -32,4 +32,4 @@ Experience with C# / .NET. Interested in those but also in web dev and data scie
 
 ### Socials
 
-<p align="left"> <a href="https://medium.com/@gmfuster" target="_blank" rel="noreferrer">I have some articles on Medium</a> 
+<p align="left"> <a href="https://medium.com/@gmfuster" target="_new" rel="noreferrer">I have some articles on Medium</a> 
