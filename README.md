@@ -11,6 +11,7 @@ Experience with C# / .NET. Interested in those but also in web dev and data scie
 * 🧠  I'm learning Angular, REST, Python, TS, Node, Data Science (some basic, some not)
 * 🤝  I'm open to collaborating on .Net, Web Dev, and Data Science (no experience with DS whatsoever)
 
+If you want to practice reading backwards or upside down: <a href-"https://my-notes-and-more.web.app/read-back" target="_blank"> do it here </a>
 ### Skills
 
 
